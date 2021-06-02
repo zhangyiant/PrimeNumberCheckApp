@@ -1,0 +1,2 @@
+rootProject.name = "PrimeNumberCheckApp"
+include ':app'
