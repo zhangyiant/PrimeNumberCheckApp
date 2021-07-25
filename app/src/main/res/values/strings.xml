@@ -2,4 +2,6 @@
     <string name="app_name">PrimeNumberCheckApp</string>
     <string name="input_text">Please input a number:</string>
     <string name="submit">submit</string>
+    <string name="prime_number">Prime Number</string>
+    <string name="not_prime_number">Not Prime Number</string>
 </resources>

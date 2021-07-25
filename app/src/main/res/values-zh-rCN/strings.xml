@@ -3,4 +3,6 @@
     <string name="app_name">质数（素数）应用</string>
     <string name="input_text">请输入一个数字：</string>
     <string name="submit">提交</string>
+    <string name="prime_number">素数</string>
+    <string name="not_prime_number">不是素数</string>
 </resources>
