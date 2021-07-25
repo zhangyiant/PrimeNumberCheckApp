@@ -15,7 +15,7 @@ public class ResultDisplayActivity extends AppCompatActivity {
         Intent intent = getIntent();
         int number = intent.getIntExtra(MainActivity.NUMBER, 0);
 
-        boolean isPrimeNumber = false;
+        boolean isPrimeNumber = PrimeNumberCheck.isPrimeNumber(number);
         String result;
         if (isPrimeNumber) {
             result = getString(R.string.prime_number);
