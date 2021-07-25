@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PrimeNumberCheckApp</string>
     <string name="input_text">Please input a number:</string>
+    <string name="submit">submit</string>
 </resources>
